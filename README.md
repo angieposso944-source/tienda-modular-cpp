@@ -1,7 +1,9 @@
 # Tienda Modular C++
 
 Taller: Tienda modular con funciones en C++
-Materia: Lógica de Programación (SD1002), I. U. Pascual Bravo
+
+Materia: Lógica de Programación, I. U. Pascual Bravo
+
 Nombre: Daniela Posso Oquendo 
 
 ## Descripción
